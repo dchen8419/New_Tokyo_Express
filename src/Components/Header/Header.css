@@ -21,11 +21,11 @@ a {
 }
 
 .header-location {
-    background: linear-gradient(rgb(138, 0, 0), red)
+    background: rgba(255, 0, 0, 0.818)
 }
 
 .header-phone {
-    background: linear-gradient(rgb(138, 0, 0), red)
+    background: rgba(255, 0, 0, 0.818)
 }
 
 
