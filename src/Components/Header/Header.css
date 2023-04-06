@@ -12,22 +12,14 @@
     padding: 20px;
     text-align: center;
     font-weight: bold;
+    background-color: rgba(123, 0, 0, 0.854);
 }
 
 a {
     text-decoration: none;
-    color: goldenrod;
+    color: black;
     font-weight: bold;
 }
-
-.header-location {
-    background: rgba(255, 0, 0, 0.818)
-}
-
-.header-phone {
-    background: rgba(255, 0, 0, 0.818)
-}
-
 
 @media only screen and (max-width: 1024px) {
     span.text {
