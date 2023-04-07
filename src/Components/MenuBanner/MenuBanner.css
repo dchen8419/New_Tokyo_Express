@@ -1,0 +1,17 @@
+.MenuBanner-container {
+    display: flex;
+    background-color: lightgray;
+    align-content: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.MenuBanner-container div {
+    align-items: center;
+    margin: 10px;
+    width: 25%;
+    padding: 20px;
+    text-align: center;
+    font-weight: bold;
+    background-color: rgba(123, 0, 0, 0.854);
+}

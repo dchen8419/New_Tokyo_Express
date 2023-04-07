@@ -54,7 +54,7 @@ nav {
     align-items: center;
 }
 
-.dentalicon {
+.cheficon {
     width: 15%;
     border-radius: 50%;
     cursor: pointer;
@@ -100,7 +100,7 @@ html {
         font-size: 1.5rem;
     }
     
-    .dentalicon {
-        width: 95px;
-    }
+    /* .cheficon {
+        width: 60px;
+    } */
 }

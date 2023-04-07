@@ -26,17 +26,19 @@
     text-align: center;
     width: 160px;
     box-sizing: border-box;
+    text-align: center;
 }
 
 .footer-link-items h2 {
     margin-bottom: 16px;
 }
 
-.footer-link-items > h2 {
-    color: goldenrod;
-}
 
 .footer-link-items p {
     margin-bottom: 8px;
+}
+
+.footer-link-items a:hover {
+    color: white;
 }
 
