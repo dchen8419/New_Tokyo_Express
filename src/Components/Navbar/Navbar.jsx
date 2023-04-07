@@ -19,11 +19,10 @@ function Navbar() {
     return (
         <header>
             <div id="home">
-                <img alt='dentalicon' src={chef} className="dentalicon"/>
+                <img alt='cheficon' src={chef} className="cheficon"/>
             </div>
         <nav ref={navRef}>
             <a href="#Home" onClick={showNavbar}>Home</a>
-            <a href="#About" onClick={showNavbar}>About</a>
             <a href="#Menu" onClick={showNavbar}>Menu</a>
             <a href="#Contact" onClick={showNavbar}>Contact</a>
             <button className='navbar-btn nav-close-btn' onClick={showNavbar} >
