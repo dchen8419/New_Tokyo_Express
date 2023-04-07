@@ -5,25 +5,25 @@ function MenuBanner() {
     return (
         <div className='MenuBanner-container'>
             <div>
-                <h3>Side Items</h3>
+                <a href="#Side">Side Items</a>
             </div>
             <div>
-                <h3>Entrees</h3>
+                <a href="#Entrees">Entrees</a>
             </div>
             <div>
-                <h3>Express Browl</h3>
+                <a href='#Express'>Express Bowls</a>
             </div>
             <div>
-                <h3>Specials</h3>
+                <a href='#Children'>Children's Specials</a>
             </div>
             <div>
-                <h3>Sushi</h3>
+                <a href='#Special'>Specials</a>
             </div>
             <div>
-                <h3>Children's Specials</h3>
+                <a href='#Sushi'>Sushi</a>
             </div>
             <div>
-                <h3>Beverages</h3>
+                <a href='#Beverages'>Beverages</a>
             </div>
         </div>
     )
