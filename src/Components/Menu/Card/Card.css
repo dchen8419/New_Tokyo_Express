@@ -1,5 +1,12 @@
-.card-container h3 {
-    margin: 10px 50px 50px 20px;
+.card-container ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.card-container div {
+    margin: auto;
 }
 
 .card-container h1 {
