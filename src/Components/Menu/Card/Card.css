@@ -1,14 +1,5 @@
-.card-container ul {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+.card-container {
+    text-align: center;
+    line-height: 2;
 }
 
-
-.card-container div {
-    margin: auto;
-}
-
-.card-container h1 {
-    
-}
