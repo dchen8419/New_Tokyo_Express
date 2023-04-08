@@ -7,7 +7,7 @@
 }
 
 .menu-container div {
-    align-items: center;
+    /* align-items: center; */
     margin: 10px;
     width: 25%;
     padding: 20px;
