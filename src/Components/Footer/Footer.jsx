@@ -11,7 +11,9 @@ export const Footer = () => {
                             <h2>Contact</h2>
                             <p>2108 S Irby St #4</p>
                             <p>Florence, SC 29505</p>
+                            <p>DINE-IN OR CARRY-OUT</p>
                             <a href="tel:843-678-9595">(843) 678-9595</a>
+                            
                         </a>
                     </div>
                     <div className='footer-link-items'>
