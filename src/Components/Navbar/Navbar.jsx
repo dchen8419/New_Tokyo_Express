@@ -19,7 +19,7 @@ function Navbar() {
     return (
         <header>
             <div id="home">
-                <img alt='cheficon' src={chef} className="cheficon"/>
+                <img alt='Japanese Food and Sushi' src={chef} className="cheficon"/>
             </div>
         <nav ref={navRef}>
             <a href="#Home" onClick={showNavbar}>Home</a>
