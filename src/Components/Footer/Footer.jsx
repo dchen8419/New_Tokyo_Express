@@ -19,8 +19,10 @@ export const Footer = () => {
                     <div className='footer-link-items'>
                         <a href="https://goo.gl/maps/E3wFRWg9uYdT6kz56">
                             <h2>Hours</h2>
-                            <p>Sunday - Thursday 11am - 9pm</p>
-                            <p>Friday - Saturday 11am - 10pm</p>
+                            <p>Sunday - Monday: 11am - 9pm</p>
+                            <p>Tuesday: Closed</p>
+                            <p>Wednesday - Thursday: 11am - 9pm</p>
+                            <p>Friday - Saturday: 11am - 10pm</p>
                         </a>
                     </div>
                 </div>
