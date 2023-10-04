@@ -18,17 +18,17 @@ function Menu() {
                                         {
                                             id: 1,
                                             Name: 'Hibachi Onions & Zucchini',
-                                            Price: '$3.50'
+                                            Price: '$3.95'
                                         },
                                         {
                                             id: 2,
                                             Name: 'Fried Rice',
-                                            Price: '$3.50'
+                                            Price: '$3.95'
                                         },
                                         {
                                             id: 3,
                                             Name: 'Side of Teriyaki Chicken',
-                                            Price: '$7.50'
+                                            Price: '$7.95'
                                         },
                                         {
                                             id: 4,
@@ -43,17 +43,17 @@ function Menu() {
                                         {
                                             id: 6,
                                             Name: 'Side Order of Zucchini',
-                                            Price: '$3.50'
+                                            Price: '$3.95'
                                         },
                                         {
                                             id: 7,
                                             Name: 'Side Order of Broccoli',
-                                            Price: '$3.75'
+                                            Price: '$3.95'
                                         },
                                         {
                                             id: 8,
                                             Name: 'Side Order of Mushroom',
-                                            Price: '$3.75'
+                                            Price: '$3.95'
                                         },
                                         {
                                             id: 9,
@@ -63,17 +63,17 @@ function Menu() {
                                         {
                                             id: 10,
                                             Name: 'Sugar Biscuits',
-                                            Price: '$3.95'
+                                            Price: '$4.50'
                                         },
                                         {
                                             id: 11,
                                             Name: 'Xangos',
-                                            Price: '5.25'
+                                            Price: '5.75'
                                         },
                                         {
                                             id: 12,
                                             Name: 'Sweet Carrots',
-                                            Price: '$3.50'
+                                            Price: '$3.95'
                                         },
                                     ]
                                 } 
@@ -86,62 +86,62 @@ function Menu() {
                                         {
                                             id: 13,
                                             Name: 'Hibachi Vegetables',
-                                            Price: '$8.95'
+                                            Price: '$9.50'
                                         },
                                         {
                                             id: 14,
                                             Name: 'Teriyaki Chicken',
-                                            Price: '$10.95'
+                                            Price: '$11.95'
                                         },
                                         {
                                             id: 15,
                                             Name: 'Hibachi Chicken',
-                                            Price: '$10.95'
+                                            Price: '$11.95'
                                         },
                                         {
                                             id: 16,
                                             Name: 'Hibachi Shrimp',
-                                            Price: '$12.95'
+                                            Price: '$13.95'
                                         },
                                         {
                                             id: 17,
                                             Name: 'Hibachi Chicken & Shrimp',
-                                            Price: '$11.95'
+                                            Price: '$12.95'
                                         },
                                         {
                                             id: 18,
                                             Name: 'Teriyaki Chicken & Shrimp',
-                                            Price: '$11.95'
+                                            Price: '$12.95'
                                         },
                                         {
                                             id: 19,
                                             Name: 'Hibachi Steak',
-                                            Price: '$12.95'
+                                            Price: '$13.95'
                                         },
                                         {
                                             id: 20,
                                             Name: 'Hibachi Steak & Shrimp',
-                                            Price: '$12.95'
+                                            Price: '$13.95'
                                         },
                                         {
                                             id: 21,
                                             Name: 'Hibachi Chicken & Steak',
-                                            Price: '$11.95'
+                                            Price: '$12.95'
                                         },
                                         {
                                             id: 22,
                                             Name: 'Teriyaki Chicken & Steak',
-                                            Price: '$11.95'
+                                            Price: '$12.95'
                                         },
                                         {
                                             id: 23,
                                             Name: 'Fried Shrimp',
-                                            Price: '$9.95'
+                                            Price: '$10.95'
                                         },
                                         {
                                             id: 24,
                                             Name: 'Steak-Chicken-Shrimp',
-                                            Price: '$12.95'
+                                            Price: '$13.95'
                                         },
                                     ]
                                 }
@@ -154,22 +154,22 @@ function Menu() {
                                         {
                                             id: 25,
                                             Name: 'Chicken Bowl',
-                                            Price: '$7.95'
+                                            Price: '$8.95'
                                         },
                                         {
                                             id: 26,
                                             Name: 'Shrimp Bowl',
-                                            Price: '$8.75'
+                                            Price: '$9.50'
                                         },
                                         {
                                             id: 27,
                                             Name: 'Steak Bowl',
-                                            Price: '$8.75'
+                                            Price: '$9.50'
                                         },
                                         {
                                             id: 28,
                                             Name: 'Beef Bowl',
-                                            Price: '$7.95'
+                                            Price: '$8.95'
                                         },
                                         {
                                             id: 29,
@@ -179,7 +179,7 @@ function Menu() {
                                         {
                                             id: 30,
                                             Name: 'Vegetable Bowl',
-                                            Price: '$7.50'
+                                            Price: '$8.50'
                                         },
                                         {
                                             id: 31,
@@ -189,7 +189,7 @@ function Menu() {
                                         {
                                             id: 32,
                                             Name: 'Filet Mignon Bowl',
-                                            Price: '$9.95'
+                                            Price: '$10.95'
                                         },
                                     ]
                                 }
@@ -202,37 +202,37 @@ function Menu() {
                                         {
                                             id: 33,
                                             Name: '7 Chicken Wings',
-                                            Price: '$5.95'
+                                            Price: '$6.50'
                                         },
                                         {
                                             id: 34,
                                             Name: '14 Chicken Wings',
-                                            Price: '$9.75'
+                                            Price: '$10.50'
                                         },
                                         {
                                             id: 35,
-                                            Name: 'Wings & French Fries',
-                                            Price: '$9.50'
+                                            Name: 'Chicken Wings & French Fries',
+                                            Price: '$10.50'
                                         },
                                         {
                                             id: 36,
                                             Name: 'Fried Shrimp & French Fries',
-                                            Price: '$7.25'
+                                            Price: '$7.95'
                                         },
                                         {
                                             id: 37,
-                                            Name: 'Tenders & French Fries',
-                                            Price: '$6.95'
+                                            Name: 'Chicken Tenders & French Fries',
+                                            Price: '$7.75'
                                         },
                                         {
                                             id: 38,
                                             Name: 'Side Order of French Fries',
-                                            Price: '$3.25'
+                                            Price: '$3.95'
                                         },
                                         {
                                             id: 39,
                                             Name: 'Wings Combo and Rice (7)',
-                                            Price: '$9.75'
+                                            Price: '$10.50'
                                         },
                                     ]
                                 }
@@ -245,7 +245,7 @@ function Menu() {
                                         {
                                             id: 40,
                                             Name: 'Jumbo Shrimp',
-                                            Price: '$15.95'
+                                            Price: '$16.95'
                                         },
                                         {
                                             id: 41,
@@ -255,12 +255,12 @@ function Menu() {
                                         {
                                             id: 42,
                                             Name: 'Jumbo Shrimp & Steak',
-                                            Price: '$14.95'
+                                            Price: '$15.95'
                                         },
                                         {
                                             id: 43,
                                             Name: 'Jumbo Shrimp, Scallops & Steak',
-                                            Price: '$15.95'
+                                            Price: '$16.95'
                                         },
                                         {
                                             id: 44,
@@ -270,22 +270,22 @@ function Menu() {
                                         {
                                             id: 45,
                                             Name: 'Scallops & Steak',
-                                            Price: '$14.95'
+                                            Price: '$15.95'
                                         },
                                         {
                                             id: 46,
                                             Name: 'Filet Mignon & Jumbo Shrimp',
-                                            Price: '$17.95'
+                                            Price: '$18.95'
                                         },
                                         {
                                             id: 47,
                                             Name: 'Filet Mignon',
-                                            Price: '$17.95'
+                                            Price: '$18.95'
                                         },
                                         {
                                             id: 48,
                                             Name: 'Salmon with Noodles',
-                                            Price: '$17.95'
+                                            Price: '$18.95'
                                         },
                                     ]
                                 }
@@ -298,12 +298,12 @@ function Menu() {
                                         {
                                             id: 49,
                                             Name: 'Crab Roll',
-                                            Price: '$4.75'
+                                            Price: '$5.25'
                                         },
                                         {
                                             id: 50,
                                             Name: 'California Roll',
-                                            Price: '$4.75'
+                                            Price: '$5.25'
                                         },
                                         {
                                             id: 51,
@@ -313,27 +313,27 @@ function Menu() {
                                         {
                                             id: 52,
                                             Name: 'Shrimp Tempura Roll',
-                                            Price: '$6.25'
+                                            Price: '$6.95'
                                         },
                                         {
                                             id: 53,
                                             Name: 'Vegetable Roll',
-                                            Price: '$4.25'
+                                            Price: '$4.95'
                                         },
                                         {
                                             id: 54,
                                             Name: 'Tokyo Roll',
-                                            Price: '$5.50'
+                                            Price: '$6.25'
                                         },
                                         {
                                             id: 55,
                                             Name: 'Avocado Roll',
-                                            Price: '$4.25'
+                                            Price: '$4.95'
                                         },
                                         {
                                             id: 56,
                                             Name: 'Carolina Roll',
-                                            Price: '$4.75'
+                                            Price: '$5.25'
                                         },
                                     ]
                                 }
