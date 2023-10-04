@@ -5,6 +5,9 @@ function MenuBanner() {
     return (
         <div className='MenuBanner-container'>
             <div>
+                <a href='#Appetizer'>Appetizer</a>
+            </div>
+            <div>
                 <a href="#Side">Side Items</a>
             </div>
             <div>
@@ -21,6 +24,18 @@ function MenuBanner() {
             </div>
             <div>
                 <a href='#Sushi'>Sushi</a>
+            </div>
+            <div>
+                <a href='#Chicken'>Chicken</a>
+            </div>
+            <div>
+                <a href='#Beef'>Beef</a>
+            </div>
+            <div>
+                <a href='#Shrimp'>Shrimp</a>
+            </div>
+            <div>
+                <a href='#Noodle & Rice Noodle'>Noodle & Rice Noodle</a>
             </div>
             <div>
                 <a href='#Beverages'>Beverages</a>
