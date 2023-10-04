@@ -26,6 +26,11 @@ a {
     font-weight: bold;
 }
 
+.business-name {
+    font-family: 'Wonton', sans-serif;
+    /* font-size: 25px; */
+}
+
 @media only screen and (max-width: 1024px) {
     span.text {
         display: none;
