@@ -11,6 +11,34 @@ function Menu() {
             <div>
                 <ul className='menu-ul-list'>
                     <div className='menu-container'>
+                        <div id="Appetizer" className='menu-container-item menu-container-item-1'>
+                            <Card 
+                                label='Appetizer' item={
+                                    [
+                                        {
+                                            id: 1,
+                                            Name: 'House Salad',
+                                            Price: '$4.25'
+                                        },
+                                        {
+                                            id: 2,
+                                            Name: 'Spring Roll (1)',
+                                            Price: '$1.39'
+                                        },
+                                        {
+                                            id: 3,
+                                            Name: 'Pork Wontons with Chili Sauce',
+                                            Price: '$7.95'
+                                        },
+                                        {
+                                            id: 4,
+                                            Name: 'Fried Dumplings (5)',
+                                            Price: '$7.95'
+                                        }
+                                    ]
+                                } 
+                            />
+                        </div>
                         <div id="Side" className='menu-container-item menu-container-item-1'>
                             <Card 
                                 label='Side Items' item={
@@ -337,6 +365,141 @@ function Menu() {
                                         },
                                     ]
                                 }
+                            />
+                        </div>
+                        <div id="Chicken" className='menu-container-item menu-container-item-1'>
+                            <Card 
+                                label='Chicken' item={
+                                    [
+                                        {
+                                            id: 1,
+                                            Name: 'Chicken with Broccoli',
+                                            Price: '$12.95'
+                                        },
+                                        {
+                                            id: 2,
+                                            Name: 'General Tao\'s Chicken',
+                                            Price: '$12.95'
+                                        },
+                                        {
+                                            id: 3,
+                                            Name: 'Ko Po Chicken',
+                                            Price: '$12.95'
+                                        },
+                                        {
+                                            id: 4,
+                                            Name: 'Sesame Chicken',
+                                            Price: '$12.95'
+                                        },
+                                        {
+                                            id: 5,
+                                            Name: 'Stir Fried Onion and Chicken',
+                                            Price: '$12.95'
+                                        }
+                                    ]
+                                } 
+                            />
+                        </div>
+                        <div id="Beef" className='menu-container-item menu-container-item-1'>
+                            <Card 
+                                label='Beef' item={
+                                    [
+                                        {
+                                            id: 1,
+                                            Name: 'Beef with Broccoli',
+                                            Price: '$12.95'
+                                        },
+                                        {
+                                            id: 2,
+                                            Name: 'Black Pepper Beef',
+                                            Price: '$12.95'
+                                        },
+                                        {
+                                            id: 3,
+                                            Name: 'Curry Beef',
+                                            Price: '$12.95'
+                                        },
+                                        {
+                                            id: 4,
+                                            Name: 'Stir Beef with Onion',
+                                            Price: '$12.95'
+                                        },
+                                    ]
+                                } 
+                            />
+                        </div>
+                        <div id="Shrimp" className='menu-container-item menu-container-item-1'>
+                            <Card 
+                                label='Shrimp' item={
+                                    [
+                                        {
+                                            id: 1,
+                                            Name: 'Ko Po Shrimp',
+                                            Price: '$15.95'
+                                        },
+                                        {
+                                            id: 2,
+                                            Name: 'Salt and Pepper Shrimp',
+                                            Price: '$15.95'
+                                        }
+                                    ]
+                                } 
+                            />
+                        </div>
+                        <div id="Noodle & Rice Noodle" className='menu-container-item menu-container-item-1'>
+                            <Card 
+                                label='Noodle & Rice Noodle' item={
+                                    [
+                                        {
+                                            id: 1,
+                                            Name: 'House Lo Mein',
+                                            Price: '$12.95'
+                                        },
+                                        {
+                                            id: 2,
+                                            Name: 'Singapore Fried Rice Noodles',
+                                            Price: '$12.95'
+                                        },
+                                        {
+                                            id: 3,
+                                            Name: 'Thai Style Rice Noodles',
+                                            Price: '$12.95'
+                                        },
+                                        {
+                                            id: 4,
+                                            Name: 'Shrimp Rice Noodles',
+                                            Price: '$12.95'
+                                        }
+                                    ]
+                                } 
+                            />
+                        </div>
+                        <div id="Fried Rice" className='menu-container-item menu-container-item-1'>
+                            <Card 
+                                label='Fried Rice' item={
+                                    [
+                                        {
+                                            id: 1,
+                                            Name: 'Egg Fried Rice',
+                                            Price: '$11.95'
+                                        },
+                                        {
+                                            id: 2,
+                                            Name: 'House Fried Rice',
+                                            Price: '$12.95'
+                                        },
+                                        {
+                                            id: 3,
+                                            Name: 'Ko Po Fried Rice',
+                                            Price: '$12.95'
+                                        },
+                                        {
+                                            id: 4,
+                                            Name: 'Shrimp Fried Rice',
+                                            Price: '$12.95'
+                                        },
+                                    ]
+                                } 
                             />
                         </div>
                         <div id='Beverages' className='menu-container-item menu-container-item-6'>
