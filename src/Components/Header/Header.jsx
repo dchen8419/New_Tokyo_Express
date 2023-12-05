@@ -16,8 +16,8 @@ function Header() {
                 <h3 className='business-name'>New Tokyo Express</h3>
             </div>
             <div> 
-                <span className='icon'><a href="tel:843-841-3188"><HiPhone /></a></span>
-                <span className='text'><a href="tel:843-841-3188"> (843) 678-9595</a></span>
+                <span className='icon'><a href="tel:843-678-9595"><HiPhone /></a></span>
+                <span className='text'><a href="tel:843-678-9595"> (843) 678-9595</a></span>
             </div>
         </div>
     )
